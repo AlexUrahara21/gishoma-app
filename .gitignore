@@ -6,6 +6,10 @@ yarn-error.log*
 package-lock.json
 yarn.lock
 
+# Folders to ignore
+bin/
+search/
+
 # Environment variables
 .env
 .env.local
