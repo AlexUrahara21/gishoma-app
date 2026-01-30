@@ -1,10 +1,15 @@
 import "./Message.css";
+
 function Message() {
-    
   return (
-    <div>
-      <h1 className="title" >Hello React</h1>
-      <button className="button">I am a React developer passionate to design good and productive systems</button>
+    <div className="container">
+      <h1 className="title">Hello, I’m Bolice 👋</h1>
+
+      <p className="description">
+        I am a React developer passionate about designing clean, scalable, and productive systems.
+      </p>
+
+      <button className="button">View My Work</button>
     </div>
   );
 }
